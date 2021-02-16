@@ -1,1 +1,1 @@
-.\build\Release\CudaTest.exe
+.\build\Release\CudaTestNoLibIgl.exe

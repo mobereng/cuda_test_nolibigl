@@ -1,31 +1,5 @@
 #pragma once
 
-/*
-#include <igl/readOBJ.h>
-#include <igl/vertex_triangle_adjacency.h>
-#include <igl/volume.h>
-#include <igl/doublearea.h>
-#include <igl/opengl/glfw/Viewer.h>
-#include <igl/opengl/glfw/imgui/ImGuiMenu.h>
-#include <igl/opengl/glfw/imgui/ImGuiHelpers.h>
-#include <imgui/imgui.h>
-#include <igl/cotmatrix.h>
-#include <igl/edges.h>
-#include <igl/edge_lengths.h>
-#include <igl/edge_topology.h>
-#include <igl/bounding_box_diagonal.h>
-#include <igl/euler_characteristic.h>
-#include <igl/remove_duplicate_vertices.h>
-#include <igl/decimate.h>
-#include <igl/is_edge_manifold.h>
-#include <igl/jet.h>
-#include <igl/grad.h>
-#include <igl/principal_curvature.h>
-#include <igl/avg_edge_length.h>
-#include <igl/cat.h>
-#include <igl/barycenter.h>
-#include <igl/edge_flaps.h>
-*/
 #include <Eigen/Sparse>
 #include <boost/program_options.hpp>
 #include <boost/filesystem.hpp>
