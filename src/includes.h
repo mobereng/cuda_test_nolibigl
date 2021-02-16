@@ -1,9 +1,6 @@
 #pragma once
 
 #include <Eigen/Sparse>
-#include <boost/program_options.hpp>
-#include <boost/filesystem.hpp>
-#include <boost/algorithm/string.hpp>
 #include <iostream>
 #include <algorithm>
 #include <fstream>
